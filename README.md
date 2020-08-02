@@ -23,7 +23,7 @@ Sorting Algorithm Python Implementation
 ## Merge Sort - Python Implementation 
 [Merge Sort](https://github.com/AishwaryaJadhav9850/Sorting-Algorithm/commit/404026722c847fdf0b567d495020ceddb5caa32b)
 
-- Merge sort has a worst-case and average complexity of О(nLogn), where n is the number of items being sorted.
+- Merge sort has a worst-case time complexity of О(nLogn), where n is the number of items being sorted.
 
 - Merge Sort is based on recursion
 
@@ -38,7 +38,7 @@ Sorting Algorithm Python Implementation
 ## Insertion Sort - Python Implementation 
 [Insertion Sort](https://github.com/AishwaryaJadhav9850/Sorting-Algorithm/commit/1ef90203b9bb3d525fa2392346d671b58103f021)
 
-- Insertion sort has a worst-case and average complexity of О(n^2), where n is the number of items being sorted and Best Case is O(n)
+- Insertion sort has a worst-case time complexity of О(n^2), where n is the number of items being sorted and Best Case is O(n)
 
 - Insertion sort is a Stable sorting algorithm
 
@@ -53,7 +53,7 @@ Sorting Algorithm Python Implementation
 ## Shell Sort - Python Implementation 
 [Shell Sort](https://github.com/AishwaryaJadhav9850/Sorting-Algorithm/commit/bb73a9fbf7c6180fb0353429615b34852ecaa027)
 
-- Shell sort has a worst-case and average complexity of О(n^2), where n is the number of items being sorted.
+- Shell sort has a worst-case time complexity of О(n^2), where n is the number of items being sorted.
 
 - Shell sort is not an Stable sorting algorithm
 
@@ -68,7 +68,7 @@ Sorting Algorithm Python Implementation
 ## Selection Sort - Python Implementation 
 [Selection Sort](https://github.com/AishwaryaJadhav9850/Sorting-Algorithm/commit/31839ea23510f2dd6b6952309a42cd11247afdf0)
 
-- Selection sort has a worst-case and average complexity of О(n^2), where n is the number of items being sorted.
+- Selection sort has a worst-case time complexity of О(n^2), where n is the number of items being sorted.
 
 - Selection sort is a Stable sorting algorithm
 
@@ -81,7 +81,7 @@ Sorting Algorithm Python Implementation
 ## Quick Sort - Python Implementation 
 [Quick Sort](https://github.com/AishwaryaJadhav9850/Sorting-Algorithm/commit/4aaa1b890b43d60db2fdc24ffc6a133dc28fc7dd)
 
-- Quick sort has a worst-case and average complexity of О(n^2), where n is the number of items being sorted and average case is O(nLogn)
+- Quick sort has a worst-case time complexity of О(n^2), where n is the number of items being sorted and average case is O(nLogn)
 
 - Quick sort is not an Stable sorting algorithm
 
